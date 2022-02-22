@@ -1,0 +1,26 @@
+
+
+#Contacto{
+    font-family: 'Comfortaa', cursive;
+    font-weight: 800;
+text-align: center;
+top:  100px;
+left: 1000px;
+position:absolute;
+background-color: rgba(3, 114, 77, 0.267);
+font-size: 35px;
+bottom: 0px;
+}
+
+.Inicio{
+    font-family: 'Comfortaa', cursive;
+    font-weight: 800;
+text-align: center;
+top:  1100px;
+left: 1450px;
+position:absolute;
+
+font-size: 35px;
+bottom: 0px;
+
+}
